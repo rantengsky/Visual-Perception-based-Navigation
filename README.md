@@ -8,8 +8,7 @@ This project is a real-time indoor navigation system for the mobile robot. It ta
 
 **Video:** [nav-video](https://pan.baidu.com/s/17zI-3hvoyymZo-VmJHAnJg)   extract code: i0o0
 **Model:** [network-model](https://pan.baidu.com/s/1AvrePbG8SOTmA-vhfefkew)   extract code: 6kgs
-**Data:** [odom-data](https://pan.baidu.com/s/1JpbxpToTW1kjrBmlFBoqKw)   extract code: qh0q
- 
+**Data:** [odom-data](https://pan.baidu.com/s/1Heun0oYAMllRR-Ewj8MScA)   extract code: 8d6r
 
 ## Prerequisites
 
