@@ -6,7 +6,7 @@
 
 This project is a real-time indoor navigation system for the mobile robot. It takes the information of an monocular camera as input. The images captured by the camera will be classified by a CNN model. After the classification, the system converts the outputs to specific velocity command through the motion control algorithm (the regular control and the adaptive weighted control). And the robot can navigate by itself under an unknown and dynamic environment.
 
-**Video:** [nav-video](https://pan.baidu.com/s/17zI-3hvoyymZo-VmJHAnJg)   extract code: i0o0
+**Video:** [nav-video](http://i.youku.com/i/UNjgyMjQ5NzM0NA==)
 **Model:** [network-model](https://pan.baidu.com/s/1AvrePbG8SOTmA-vhfefkew)   extract code: 6kgs
 **Data:** [odom-data](https://pan.baidu.com/s/1Heun0oYAMllRR-Ewj8MScA)   extract code: 8d6r
 
