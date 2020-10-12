@@ -25,3 +25,6 @@ To store the encoder data (pose, velocity)
 ## Contact us
 
 For any issues, please feel free to contact Teng Ran: rantengsky@163.com
+
+## Citation
+Our research is accepted by journal of ISA Transactions and the Bibtex will be available soon.
