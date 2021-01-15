@@ -1,6 +1,6 @@
 # Visual-Perception-based-Navigation
 ## Introduction
-**Authors:** T. Ran, L. Yuan, J. Zhang and D. Tang
+**Authors:** T. Ran, L. Yuan, J. Zhang
 
 <img src="https://github.com/rantengsky/Visual-Perception-based-Navigation/blob/master/pictures/fig1.png" width="375">
 
