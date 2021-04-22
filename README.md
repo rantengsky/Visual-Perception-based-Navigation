@@ -27,4 +27,15 @@ To store the encoder data (pose, velocity)
 For any issues, please feel free to contact Teng Ran: rantengsky@163.com
 
 ## Citation
-Our research is accepted by journal of ISA Transactions and the Bibtex will be available soon.
+BibTex
+@article{RAN2021389,
+title = {Scene perception based visual navigation of mobile robot in indoor environment},
+journal = {ISA Transactions},
+volume = {109},
+pages = {389-400},
+year = {2021},
+issn = {0019-0578},
+doi = {https://doi.org/10.1016/j.isatra.2020.10.023},
+url = {https://www.sciencedirect.com/science/article/pii/S0019057820304183},
+author = {T. Ran and L. Yuan and J.b. Zhang},
+}
