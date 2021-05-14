@@ -38,5 +38,4 @@ year = {2021},
 issn = {0019-0578},  
 doi = {https://doi.org/10.1016/j.isatra.2020.10.023},  
 url = {https://www.sciencedirect.com/science/article/pii/S0019057820304183},  
-author = {T. Ran and L. Yuan and J.b. Zhang},  
-}
+author = {T. Ran and L. Yuan and J.b. Zhang},}
